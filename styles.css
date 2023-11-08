@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+    font-family: Courier New, Courier, monospace
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    text-align:center;
+    text-shadow: 2px 2px 5px #faf4ea;
+    background-image: conic-gradient(#ffd500,#fdc500 135deg,#5c0099,#510087,#3d0066);
+    color: #2b2839;
+  
+}
+
+.details{
+    margin: 0 0 0 60px;
+}
+
+.border {
+    border: 6px solid #d2b7e5;
+}
+
